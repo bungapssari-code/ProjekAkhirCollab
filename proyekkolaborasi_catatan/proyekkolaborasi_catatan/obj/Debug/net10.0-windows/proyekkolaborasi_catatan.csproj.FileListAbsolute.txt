@@ -1,0 +1,17 @@
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\bin\Debug\net10.0-windows\proyekkolaborasi_catatan.exe
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\bin\Debug\net10.0-windows\proyekkolaborasi_catatan.deps.json
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\bin\Debug\net10.0-windows\proyekkolaborasi_catatan.runtimeconfig.json
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\bin\Debug\net10.0-windows\proyekkolaborasi_catatan.dll
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\bin\Debug\net10.0-windows\proyekkolaborasi_catatan.pdb
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.Form1.resources
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.Form2.resources
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.csproj.GenerateResource.cache
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.GeneratedMSBuildEditorConfig.editorconfig
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.AssemblyInfoInputs.cache
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.AssemblyInfo.cs
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.csproj.CoreCompileInputs.cache
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.dll
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\refint\proyekkolaborasi_catatan.dll
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.pdb
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\proyekkolaborasi_catatan.genruntimeconfig.cache
+D:\YUNITA XI RPL\proyekkolaborasi_catatan\proyekkolaborasi_catatan\obj\Debug\net10.0-windows\ref\proyekkolaborasi_catatan.dll

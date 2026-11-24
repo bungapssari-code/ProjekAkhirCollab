@@ -121,7 +121,7 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.Sienna;
+            button1.BackColor = Color.Firebrick;
             button1.ForeColor = Color.White;
             button1.Location = new Point(12, 12);
             button1.Name = "button1";
@@ -132,7 +132,7 @@
             // 
             // button2
             // 
-            button2.BackColor = Color.LightGray;
+            button2.BackColor = SystemColors.ButtonShadow;
             button2.Location = new Point(320, 12);
             button2.Name = "button2";
             button2.Size = new Size(112, 34);
